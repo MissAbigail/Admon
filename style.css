@@ -6,6 +6,10 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #333;
 }
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
 
 header {
   background: #111;
