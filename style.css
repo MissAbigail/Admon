@@ -6,6 +6,22 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #333;
 }
+
+.col1{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  font-size: 1.4em;
+  font-style: italic;
+  font-family: serif;
+}
+.col2{
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  font-size: 1.4em;
+  font-style: italic;
+  font-family: serif;
 .footer{
     display: flex;
     justify-content: flex-end;
